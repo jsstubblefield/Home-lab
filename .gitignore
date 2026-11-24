@@ -1,0 +1,10 @@
+# RouterOS binary backups and firmware — never commit
+*.backup
+*.bin
+# Keys and credentials
+*.key
+*.pem
+*.crt
+# Local snapshot sync records
+*.muse-github-snapshot-sync.json
+*.muse-github-snapshot-sync.json.tmp-*
